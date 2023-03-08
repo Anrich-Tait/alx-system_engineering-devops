@@ -15,3 +15,7 @@ The scripts in order of creation:
 13. 12-file_name : prints file $file
 14. 13-symbolic_link : creates a symbolic_link to a file using $ln -s
 15. 14-copy_html : copies all .html files with $cp 
+16. 100-lets_move : moves all files within a specified range using $mv
+17.
+18.
+19.
