@@ -11,5 +11,5 @@ The scripts in order of creation:
 9. 8-firstdelete : deletes betty using $rm
 10. 9-firstdirdeletion : deletes my_first_directory using $rm -rf
 11. 10-back : moves user back to previous directory using $cd -
-12. 11-lists : ls -al . .. /boot
-13.
+12. 11-lists : list files in specified directories using $ls -al . .. /boot
+13. 12-file_name : prints file $file
