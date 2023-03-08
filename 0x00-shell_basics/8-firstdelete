@@ -1,2 +1,2 @@
 #!/bin/bash
-rm /tmp/my_first_directory/betty
+rm 0x00-shell_basics/tmp/my_first_directory/betty
