@@ -9,7 +9,7 @@ The scripts in order of creation:
 7. 6-my_first_directory : creates a directory called "my_first_directory" in the /tmp/ directory using $mkdir
 8. 7-movethatfile : moves .betty to the "my_first_directory" folder
 9. 8-firstdelete : deletes betty using $rm
-10.
+10. 9-firstdirdeletion : deletes my_first_directory using $rm -rf
 11.
 12.
 13.
