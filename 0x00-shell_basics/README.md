@@ -13,3 +13,4 @@ The scripts in order of creation:
 11. 10-back : moves user back to previous directory using $cd -
 12. 11-lists : list files in specified directories using $ls -al . .. /boot
 13. 12-file_name : prints file $file
+14. 13-symbolic_link : creates a symbolic_link to a file using $ln -s
