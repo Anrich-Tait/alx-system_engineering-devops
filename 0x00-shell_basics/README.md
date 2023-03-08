@@ -14,3 +14,4 @@ The scripts in order of creation:
 12. 11-lists : list files in specified directories using $ls -al . .. /boot
 13. 12-file_name : prints file $file
 14. 13-symbolic_link : creates a symbolic_link to a file using $ln -s
+15. 14-copy_html : copies all .html files with $cp 
