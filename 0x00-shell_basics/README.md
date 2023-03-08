@@ -10,6 +10,6 @@ The scripts in order of creation:
 8. 7-movethatfile : moves .betty to the "my_first_directory" folder
 9. 8-firstdelete : deletes betty using $rm
 10. 9-firstdirdeletion : deletes my_first_directory using $rm -rf
-11.
+11. 10-back : moves user back to previous directory using $cd ..
 12.
 13.
