@@ -5,3 +5,4 @@ The scripts in order of creation:
 3. 2-bring_me_home : moves user to their home directory using $cd
 4. 3-listfiles : long lists files in directory using $ls -l
 5. 4-listmorefiles : long lists all files in directory using $ls -al
+6. 5-listfilesdigitonly : list all files in directory using $ls -aln
