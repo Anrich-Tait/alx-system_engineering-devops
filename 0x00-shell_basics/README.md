@@ -17,5 +17,5 @@ The scripts in order of creation:
 15. 14-copy_html : copies all .html files with $cp 
 16. 100-lets_move : moves all files within a specified range using $mv
 17. 101-clean_emacs : deletes all files that end with ~ using $rm *(filetype)
-18.
+18. 102-tree : creates a string of directories using $mkdir
 19.
