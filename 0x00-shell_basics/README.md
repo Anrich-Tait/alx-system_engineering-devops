@@ -7,4 +7,4 @@ The scripts in order of creation:
 5. 4-listmorefiles : long lists all files in directory using $ls -al
 6. 5-listfilesdigitonly : list all files in directory using $ls -aln
 7. 6-my_first_directory : creates a directory called "my_first_directory" in the /tmp/ directory using $mkdir
-8.
+8. 7-movethatfile : moves .betty to the "my_first_directory" folder
