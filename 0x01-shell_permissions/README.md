@@ -17,4 +17,4 @@ The scripts are as follows:
 14. 100-change_owner_and_group : changes the owner to vincent and group owner to staff for all files and directories in the current working directory using $chown -R
 15. 101-symbolic_link_permissions : changes the owner and group owner of _hello to vincent and staff respectively using $chown -h
 16. 102-if_only: uses an if statement to change the owner of file "hello" to "betty" only if the file is owned by the user "guilluame
-17. 103-Star_Wars :
+17. 103-Star_Wars : shows the star wars movie in ASCII characters in the terminal
