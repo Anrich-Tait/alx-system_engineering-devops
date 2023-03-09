@@ -19,5 +19,4 @@ The scripts in order of creation:
 17. 101-clean_emacs : deletes all files that end with ~ using $rm *(filetype)
 18. 102-tree : creates a string of directories using $mkdir
 19. 103-commas : advanced listing using $ls -amvp
-20.
-21.
+20. school.mgc : used to detect "school" data files by searching for keyword "SCHOOL" using mime and a magic file.
