@@ -3,4 +3,4 @@ The scripts are as follows:
 0. hello_world: Prints "Hello, World" using $echo 
 1. confused_smiley: Prints a condfused smiley using $echo
 2. hellofile: Prints contents of file using $cat
-3. 
+3. twofiles: Prints contents of two files using $cat
